@@ -2,11 +2,9 @@
 //  CSI 333
 //  Spring 2019
 //  Project3
-//  ZR1702
-//  2017215126
 //  Qin Weiwei
 //
-//  Created by 秦玮蔚 on 2019/4/19.
+//  Created by Weiwei Qin on 2019/4/19.
 //  Copyright © 2019 Qin Weiwei. All rights reserved.
 //
 
